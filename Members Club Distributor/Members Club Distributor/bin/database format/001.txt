@@ -1,0 +1,16 @@
+[one line]
+name=ФИО
+year=10.09.2016
+school=29
+class=9 "A"
+telephone=00-00-00
+post=должность
+photo=001
+
+[multi line]
+skills=<навыки
+навыки
+навыки>
+achievements=<достижения
+достижения
+достижения>
